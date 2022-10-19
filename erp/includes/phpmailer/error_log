@@ -1,0 +1,2 @@
+[20-Jan-2020 10:52:05 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/y3eh4bb423ob/public_html/sbcexportslimited.com/group-3/includes/phpmailer/Exception.php on line 25
+[20-Jan-2020 10:52:55 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/y3eh4bb423ob/public_html/sbcexportslimited.com/group-3/includes/phpmailer/Exception.php on line 26

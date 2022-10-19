@@ -1,0 +1,1 @@
+<?phpinclude_once('includes/class.php');$class = new baseClass;if(isset($_GET['id'])){    $wo_id = $_GET['id'];    //echo $wo_id;    $qry = mysqli_query($class->conn,"SELECT * FROM wo_contact_master WHERE wo_id = '$wo_id';");        while($res = mysqli_fetch_array($qry))        {            echo $res['wo_client_email'];            echo ",";        }}?>
